@@ -1,7 +1,7 @@
 //Carol Pan
 //SoftDev2 pd7
-//K1 - I see a red door
-//2018-02-05
+//K1 - It's about connection
+//2018-02-06
 
 var c = document.getElementById("slate");
 var ctxt = c.getContext("2d");
