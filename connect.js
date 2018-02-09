@@ -1,5 +1,7 @@
 //Carol Pan
-
+//SoftDev2 pd7
+//K1 - I see a red door
+//2018-02-05
 
 var c = document.getElementById("slate");
 var ctxt = c.getContext("2d");
